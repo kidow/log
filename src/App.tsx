@@ -4,7 +4,7 @@ export interface Props {}
 interface State {}
 
 const App: FC<Props> = () => {
-  return <>App</>
+  return <div className="container mx-auto max-w-screen-md">App</div>
 }
 
 export default App
