@@ -1,31 +1,26 @@
-# Create React App
+# Subdomain Project - [Log.](https://log.kidow.me)
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+> - [admin.kidow.me](https://github.com/kidow/admin)
+> - [analytics.kidow.me](https://github.com/kidow/analytics) (= kidow.me)
+> - [archive.kidow.me](https://github.com/kidow/archive)
+> - [blog.kidow.me](https://github.com/kidow/blog)
+> - [components.kidow.me](https://github.com/kidow/components)
+> - [log.kidow.me](https://github.com/kidow/log)
+> - [memo.kidow.me](https://github.com/kidow/memo)
+> - [opengraph.kidow.me](https://github.com/kidow/opengraph)
+> - [portal.kidow.me](https://github.com/kidow/portal)
+> - [resume.kidow.me](https://github.com/kidow/resume)
+> - [status.kidow.me](https://github.com/kidow/status)
 
-## Deploy Your Own
+---
 
-Deploy your own Create React App project with Vercel.
+회사에서, 혹은 야외에서 그때그때 떠오르는 생각들을 잊지 않기 위해 기록해 두는 사이트입니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+---
 
-_Live Example: https://create-react-template.vercel.app/_
+## Stacks
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+- React
+- TailwindCSS
+- Typescript
+- Supabase
