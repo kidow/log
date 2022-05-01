@@ -6,3 +6,6 @@ html,
 body {
   @apply min-h-screen bg-neutral-900 text-neutral-50;
 }
+input {
+  @apply focus:outline-none;
+}
